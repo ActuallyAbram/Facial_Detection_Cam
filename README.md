@@ -22,10 +22,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/doorbell_cam.jpg" alt="Logo" width="300" height="400">
+    <img src="images/20945843.jpg" alt="Logo" width="400" height="300">
   </a>
 
-  <h3 align="center">Motion Security Camera</h3>
+  <h3 align="center">Facial Detection Camera</h3>
 </div>
 
 
