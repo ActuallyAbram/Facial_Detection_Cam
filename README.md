@@ -155,7 +155,7 @@ Your Name - Abram Huang
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-Stock Images were taken from Unsplash.
+Image by vectorjuice on Freepik
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
